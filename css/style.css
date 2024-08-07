@@ -3,7 +3,7 @@ html {
 } 
 
 .bi-facebook {
-    color: blue;
+    color: rgba(4, 48, 70, 0.648);
 }
 
 .bi-instagram {
@@ -21,3 +21,6 @@ html {
 #main {
     padding-top: 40px;
 }
+.bg-custom {
+    background-color: lightcoral;
+  }
